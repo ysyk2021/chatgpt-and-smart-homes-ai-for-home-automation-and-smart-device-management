@@ -1,5 +1,3 @@
-Summary of Key Points
-=================================
 
 In this book, we have explored the importance of using ChatGPT for home automation and smart device management in smart homes. Here is a summary of the key points covered:
 

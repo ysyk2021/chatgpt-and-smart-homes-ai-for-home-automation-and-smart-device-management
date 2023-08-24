@@ -1,5 +1,3 @@
-Chapter 3: The Role of AI and Chatbots in Smart Homes
-=====================================================
 
 In this chapter, we will introduce the concepts of AI and chatbots and explore their applications in smart homes. We will discuss how AI and chatbots can improve home automation and smart device management, as well as the benefits of using these technologies for smart homes.
 

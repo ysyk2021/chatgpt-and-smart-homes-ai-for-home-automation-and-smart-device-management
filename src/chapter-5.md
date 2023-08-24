@@ -1,5 +1,3 @@
-Chapter 4: Understanding ChatGPT
-================================
 
 In this chapter, we will explore the concept of ChatGPT and its applications in smart homes. We will discuss the features and capabilities of ChatGPT and how it can be used for smart device management.
 

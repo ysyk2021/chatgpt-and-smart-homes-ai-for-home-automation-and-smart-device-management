@@ -1,5 +1,3 @@
-Chapter 6: Future of Smart Homes with ChatGPT
-=============================================
 
 In this chapter, we will discuss the potential advancements, emerging trends, and challenges in smart homes with ChatGPT. We will also provide a conclusion and future outlook on the role of ChatGPT in home automation.
 

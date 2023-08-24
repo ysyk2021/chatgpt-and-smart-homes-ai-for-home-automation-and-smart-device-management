@@ -1,5 +1,3 @@
-Factors affecting smart home automation
-=======================================================================================
 
 In this chapter, we will explore the factors that affect smart home automation and contribute to the challenges discussed in the previous chapter. Understanding these factors is crucial for developing effective solutions and enhancing the user experience in smart homes.
 

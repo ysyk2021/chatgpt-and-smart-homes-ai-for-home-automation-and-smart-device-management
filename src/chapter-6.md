@@ -1,5 +1,3 @@
-Chapter 5: Implementing ChatGPT in Smart Homes
-==============================================
 
 In this chapter, we discuss the steps to implement ChatGPT in smart homes, best practices for using ChatGPT in improving smart device management, and case studies of homeowners and developers that have successfully implemented ChatGPT in their services.
 

@@ -1,5 +1,3 @@
-Explanation of Smart Homes and Home Automation
-============================================================
 
 In recent years, the concept of smart homes has become increasingly popular due to advancements in technology. A smart home is a house equipped with various devices that can be controlled remotely through a network connection. These devices can include appliances, lighting systems, heating and cooling systems, security systems, and entertainment systems.
 

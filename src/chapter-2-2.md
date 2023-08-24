@@ -1,5 +1,3 @@
-Different Types of Smart Devices and Systems Used in Smart Homes
-==================================================================================================
 
 In this chapter, we will explore the different types of smart devices and systems used in smart homes.
 

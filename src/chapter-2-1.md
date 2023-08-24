@@ -1,5 +1,3 @@
-Definition of Smart Homes and Home Automation
-===============================================================================
 
 In this chapter, we will explore the basics of smart homes, including the definition of smart homes and home automation.
 

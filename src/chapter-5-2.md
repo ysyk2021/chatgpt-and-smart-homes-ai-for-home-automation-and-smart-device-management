@@ -1,5 +1,3 @@
-Features and Capabilities of ChatGPT
-======================================================================
 
 In this chapter, we will delve into the features and capabilities of ChatGPT, the AI technology that powers home automation and smart device management in smart homes.
 

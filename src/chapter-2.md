@@ -1,5 +1,3 @@
-Chapter 1: Basics of Smart Homes
-================================
 
 In this chapter, we will explore the basics of smart homes, including the definition of smart homes and home automation, different types of smart devices and systems used in smart homes, and the importance of home automation and smart device management.
 

@@ -1,5 +1,3 @@
-How ChatGPT can be used for smart device management in smart homes
-====================================================================================================
 
 ChatGPT is a state-of-the-art language model developed by OpenAI that has the ability to generate human-like responses to natural language input. In this chapter, we explore how ChatGPT can be used to enhance the capabilities of smart homes and improve home automation through smart device management.
 

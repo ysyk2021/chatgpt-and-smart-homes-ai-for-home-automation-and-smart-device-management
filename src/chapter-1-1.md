@@ -1,5 +1,3 @@
-Overview of the Book
-==================================
 
 This book, "ChatGPT and Smart Homes: AI for Home Automation and Smart Device Management", explores the various ways in which artificial intelligence (AI) can be used to enhance the capabilities of smart homes and improve home automation.
 
