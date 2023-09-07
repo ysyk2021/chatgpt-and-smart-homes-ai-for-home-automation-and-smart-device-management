@@ -10,3 +10,7 @@ Throughout the book, readers will gain a comprehensive understanding of the key 
 Whether you are a homeowner looking to enhance your living experience with smart home technology, a technology enthusiast interested in the application of AI in the home environment, or a professional working in the field of home automation and device management, this book will provide you with valuable insights and practical knowledge. By the end of the book, readers will have a solid grasp of the latest techniques and technologies used in AI-powered smart home automation, and will be able to apply this knowledge to their own homes or work projects for a more efficient and personalized smart home experience.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
