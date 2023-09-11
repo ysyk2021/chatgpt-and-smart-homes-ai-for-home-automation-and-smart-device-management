@@ -1,5 +1,4 @@
-Chapter 8: Potential Advancements in Smart Homes with ChatGPT
-=============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As we continue to explore the dynamic intersection of artificial intelligence, smart homes, and ChatGPT, it becomes evident that there are exciting potential advancements on the horizon. In this chapter, we'll delve into the evolving landscape of smart homes and how ChatGPT is poised to drive these advancements to new heights.
 

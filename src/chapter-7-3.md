@@ -1,5 +1,4 @@
-Chapter 11: Conclusion and Future Outlook
-=========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this book, we've embarked on a journey through the exciting intersection of ChatGPT and smart homes, exploring the remarkable possibilities and challenges that arise when artificial intelligence meets home automation and smart device management. As we conclude this exploration, let's reflect on the key takeaways and peer into the future of this ever-evolving landscape.
 

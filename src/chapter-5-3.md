@@ -1,5 +1,4 @@
-Chapter 7: How ChatGPT Can Be Used for Smart Device Management in Smart Homes
-=============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the ways in which ChatGPT, a powerful AI language model, can be harnessed to enhance smart device management within the context of smart homes. ChatGPT's natural language understanding and generation capabilities can greatly improve the user experience and efficiency of managing and controlling various devices and systems.
 

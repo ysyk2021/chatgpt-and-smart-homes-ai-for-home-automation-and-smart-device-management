@@ -1,5 +1,4 @@
-Chapter 1: What is ChatGPT?
-===========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT is a groundbreaking artificial intelligence (AI) model developed by OpenAI. It is part of the GPT (Generative Pre-trained Transformer) family of models, renowned for their exceptional natural language understanding and generation capabilities. In this chapter, we'll delve into the fundamentals of ChatGPT, exploring what it is, how it works, and why it's a game-changer in the realm of AI and smart homes.
 

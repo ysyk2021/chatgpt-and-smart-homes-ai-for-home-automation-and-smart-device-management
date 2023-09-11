@@ -1,5 +1,4 @@
-Chapter 4: Factors Affecting Smart Home Automation
-==================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The implementation and success of smart home automation systems are influenced by a multitude of factors. In this chapter, we will delve into the key factors that play a crucial role in shaping the landscape of smart home automation and how ChatGPT can contribute to addressing these factors.
 

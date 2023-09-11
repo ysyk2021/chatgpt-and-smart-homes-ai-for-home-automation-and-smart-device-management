@@ -1,5 +1,4 @@
-Chapter 9: Features and Capabilities of ChatGPT
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT, developed by OpenAI, has emerged as one of the most advanced language models in the world. Its prowess in natural language processing makes it an invaluable asset in numerous applications, including smart homes. This chapter will delve into the core features and capabilities of ChatGPT, shedding light on its versatility and potential in the realm of home automation.
 

@@ -1,5 +1,4 @@
-Chapter 10: Emerging Trends and Challenges in Smart Homes and ChatGPT
-=====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The synergy between smart homes and ChatGPT is continually evolving, driven by emerging trends and accompanied by unique challenges. In this chapter, we'll explore the current landscape, highlighting the trends that are shaping the future of smart homes while also addressing the challenges that need to be navigated.
 

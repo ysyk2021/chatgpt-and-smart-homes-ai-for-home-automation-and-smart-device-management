@@ -1,5 +1,4 @@
-Chapter 5: Importance of Home Automation and Smart Device Management
-====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the significance of home automation and smart device management in the context of modern living. As technology continues to advance, these concepts have become integral to creating more convenient, efficient, and secure homes.
 

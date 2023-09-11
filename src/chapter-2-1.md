@@ -1,5 +1,4 @@
-Chapter 4: Definition of Smart Homes and Home Automation
-========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the fundamental concepts of smart homes and home automation. Understanding these concepts is essential as they lay the foundation for the integration of Artificial Intelligence (AI) and Chatbots into modern living spaces.
 

@@ -1,5 +1,4 @@
-Chapter 8: Common Challenges Faced by Homeowners and Developers
-===============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the world of ChatGPT and smart homes, both homeowners and developers encounter a myriad of challenges as they navigate the complexities of AI-driven home automation and smart device management. This chapter sheds light on these common challenges, offering insights into the issues that must be overcome to create a seamless and satisfying smart home experience.
 

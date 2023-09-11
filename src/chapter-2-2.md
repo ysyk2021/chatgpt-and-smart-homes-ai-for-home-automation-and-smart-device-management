@@ -1,5 +1,4 @@
-Chapter 6: Different Types of Smart Devices and Systems Used in Smart Homes
-===========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the diverse array of smart devices and systems that constitute the backbone of smart homes. These devices and systems are designed to enhance convenience, security, energy efficiency, and overall quality of life for homeowners.
 

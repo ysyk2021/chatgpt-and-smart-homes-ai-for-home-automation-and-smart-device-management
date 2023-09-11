@@ -1,5 +1,4 @@
-Chapter 1: Introduction to AI and Chatbots
-==========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the fundamental concepts of Artificial Intelligence (AI) and Chatbots within the context of home automation and smart device management. We will explore how these technologies are revolutionizing the way we interact with our smart homes, making them more intuitive, efficient, and user-friendly.
 

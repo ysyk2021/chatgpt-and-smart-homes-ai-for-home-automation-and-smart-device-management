@@ -1,5 +1,4 @@
-Chapter 3: How AI and Chatbots Can Improve Smart Device Management
-==================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the ways in which Artificial Intelligence (AI) and Chatbots can revolutionize the management of smart devices within our homes. These technologies play a pivotal role in simplifying device control, enhancing user experience, and optimizing the performance of connected devices.
 

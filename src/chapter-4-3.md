@@ -1,5 +1,4 @@
-Chapter 2: Benefits of Using AI and Chatbots for Smart Homes
-============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the numerous advantages of incorporating Artificial Intelligence (AI) and Chatbots into the realm of smart homes. These technologies are transforming the way we interact with our living spaces, making them more convenient, efficient, and responsive to our needs.
 

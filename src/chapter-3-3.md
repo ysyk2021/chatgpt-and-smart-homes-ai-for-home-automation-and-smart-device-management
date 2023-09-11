@@ -1,5 +1,4 @@
-Chapter 12: Impact of Challenges on User Experience
-===================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As we've explored in previous chapters, the integration of ChatGPT and AI-driven smart home automation presents numerous challenges. These challenges, if not effectively addressed, can significantly impact the user experience (UX) within smart homes. In this chapter, we will examine how these challenges affect homeowners and users, highlighting the importance of finding solutions for a seamless and satisfying smart home experience.
 
